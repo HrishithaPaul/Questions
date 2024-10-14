@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bobbi\\source\\repos\\OnlineShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A062255-5DD1-4D61-B111-5E0827199F8D}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\bobbi\\source\\repos\\onlineshopping\\onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A062255-5DD1-4D61-B111-5E0827199F8D}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bobbi\\source\\repos\\OnlineShopping\\OnlineShopping\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Program.cs",
+              "ToolTip": "C:\\Users\\bobbi\\source\\repos\\OnlineShopping\\OnlineShopping\\Program.cs",
+              "RelativeToolTip": "OnlineShopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:51:53.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

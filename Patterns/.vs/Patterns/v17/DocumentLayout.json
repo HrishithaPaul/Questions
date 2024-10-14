@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bobbi\\source\\repos\\Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEBE73D-EAAC-4B91-BA34-5DCAF49FBFE6}|Patterns\\Patterns.csproj|c:\\users\\bobbi\\source\\repos\\patterns\\patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEBE73D-EAAC-4B91-BA34-5DCAF49FBFE6}|Patterns\\Patterns.csproj|solutionrelative:patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bobbi\\OneDrive\\Documents\\Hrishitha@paul\\OneDrive\\Desktop\\Task\\Patterns\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bobbi\\OneDrive\\Documents\\Hrishitha@paul\\OneDrive\\Desktop\\Task\\Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\Hrishitha@paul\\OneDrive\\Desktop\\Task\\Patterns\\Program.cs",
+              "ToolTip": "C:\\Users\\bobbi\\OneDrive\\Documents\\Hrishitha@paul\\OneDrive\\Desktop\\Task\\Patterns\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\Hrishitha@paul\\OneDrive\\Desktop\\Task\\Patterns\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:54:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bobbi\\source\\repos\\Patterns\\Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Patterns\\Program.cs",
+              "ToolTip": "C:\\Users\\bobbi\\source\\repos\\Patterns\\Patterns\\Program.cs",
+              "RelativeToolTip": "Patterns\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:53:10.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
